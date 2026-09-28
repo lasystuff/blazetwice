@@ -1,0 +1,15 @@
+{
+	"color": "#00CC00",
+	"customValues": {},
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"normal"
+	],
+	"icon": "faker",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Green Sun",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 140
+}

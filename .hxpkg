@@ -1,0 +1,20 @@
+[
+	{
+		"profile": "default",
+		"pkgs": [
+            {"name": "hxcpp"},
+			{"name": "flixel"},
+			{"name": "flixel-addons"},
+			{
+				"name": "nevermore",
+				"link": "https://github.com/Rudyrue/nevermore"
+			},
+			{
+				"name": "hscript-insanity",
+				"link": "https://github.com/inky03/hscript-insanity"
+			},
+			{"name": "flixel-animate"},
+			{"name": "hxvlc"}
+		]
+	}
+]

@@ -1,0 +1,4 @@
+export/*
+.git/*
+.DS_Store
+/.haxelib
